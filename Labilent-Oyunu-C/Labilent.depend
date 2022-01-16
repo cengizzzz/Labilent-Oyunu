@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1511828671 source:c:\users\kartal yuvasý\desktop\labilent\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<conio.h>
+
